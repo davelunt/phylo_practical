@@ -1,0 +1,14 @@
+name: phylo-prac
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+
+  - mafft
+  - Fasttree
+  # - trimal
+  # - iqtree
+  # - ete3
+  - toytree
