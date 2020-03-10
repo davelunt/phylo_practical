@@ -2,13 +2,16 @@ name: phylo-prac
 channels:
   - bioconda
   - conda-forge
+  - eaton-lab
 dependencies:
   - python
   - matplotlib
-
+  - numpy
+  - biopython
   - mafft
   - Fasttree
-  # - trimal
-  # - iqtree
+  - trimal
   # - ete3
   - toytree
+  - toyplot
+  - jupyter
