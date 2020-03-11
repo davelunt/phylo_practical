@@ -4,7 +4,6 @@ channels:
   - conda-forge
   - eaton-lab
 dependencies:
-  - python
   - matplotlib
   - numpy
   - biopython
@@ -14,4 +13,4 @@ dependencies:
   # - ete3
   - toytree
   - toyplot
-  - jupyter
+  # - jupyter
