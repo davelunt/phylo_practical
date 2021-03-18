@@ -13,4 +13,4 @@ dependencies:
   # - ete3
   - toytree
   - toyplot
-  # - jupyter
+  - jupyter
