@@ -4,13 +4,12 @@ channels:
   - bioconda
   - eaton-lab
 dependencies:
+  - jupyterlab
   - matplotlib
   - numpy
   - biopython
   - mafft
   - Fasttree
   - trimal
-  # - ete3
   - toytree
   - toyplot
-  - jupyter
