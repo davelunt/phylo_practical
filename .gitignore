@@ -1,3 +1,5 @@
 .DS_Store
 .ipynb_checkpoints
 *.icloud
+*.DS_Store*
+.gitattributes
