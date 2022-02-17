@@ -1,0 +1,8 @@
+file                     format   type   num_seqs   sum_len   min_len   avg_len   max_len
+----------------------   ------   ----   --------   -------   -------   -------   -------
+ape.fas                  FASTA    DNA    15         10726     483       715.1     3963
+ape_mtgenomes.fas        FASTA    DNA    72         1239120   17210     17210.0   17210
+big_ape.fas              FASTA    DNA    53         896796    15324     16920.7   17210
+big_ape_old.fas          FASTA    DNA    55         946550    17210     17210.0   17210
+chimp-orang-maca.fasta   FASTA    DNA    17         11692     483       687.8     3963
+testseqs.fasta           FASTA    DNA    3          1449      483       483.0     483
