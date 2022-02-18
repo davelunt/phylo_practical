@@ -3,3 +3,5 @@
 *.icloud
 *.DS_Store*
 .gitattributes
+.RData
+.Rhistory
