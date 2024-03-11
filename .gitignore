@@ -5,3 +5,5 @@
 .gitattributes
 .RData
 .Rhistory
+Amys_viruses/*
+virus.ipynb
